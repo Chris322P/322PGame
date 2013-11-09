@@ -1,13 +1,13 @@
-package de.chris.adolf.screens;
+package de.chris.game.screens;
 
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 
-import de.chris.adolf.libs.Images;
-import de.chris.adolf.libs.Reference;
-import de.chris.adolf.main.Game;
+import de.chris.game.libs.Images;
+import de.chris.game.libs.Reference;
+import de.chris.game.main.Game;
 
 public class Menu {
 	public static Rectangle play, options, quit;

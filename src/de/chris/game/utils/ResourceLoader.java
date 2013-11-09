@@ -1,8 +1,8 @@
-package de.chris.adolf.utils;
+package de.chris.game.utils;
 
 import java.io.IOException;
 
-import de.chris.adolf.libs.Images;
+import de.chris.game.libs.Images;
 
 public class ResourceLoader {
 	

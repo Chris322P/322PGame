@@ -1,12 +1,12 @@
-package de.chris.adolf.input;
+package de.chris.game.input;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
-import de.chris.adolf.objects.Projectile;
-import de.chris.adolf.screens.Handler;
-import de.chris.adolf.utils.GameObject;
-import de.chris.adolf.utils.ObjectId;
+import de.chris.game.objects.Projectile;
+import de.chris.game.screens.Handler;
+import de.chris.game.utils.GameObject;
+import de.chris.game.utils.ObjectId;
 
 public class KeyInput extends KeyAdapter
 {

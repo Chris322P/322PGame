@@ -1,4 +1,4 @@
-package de.chris.adolf.libs;
+package de.chris.game.libs;
 
 import java.awt.image.BufferedImage;
 

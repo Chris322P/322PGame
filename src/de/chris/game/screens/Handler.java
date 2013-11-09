@@ -1,12 +1,12 @@
-package de.chris.adolf.screens;
+package de.chris.game.screens;
 
 import java.awt.Graphics;
 import java.util.LinkedList;
 
-import de.chris.adolf.main.Game;
-import de.chris.adolf.objects.Block;
-import de.chris.adolf.utils.GameObject;
-import de.chris.adolf.utils.ObjectId;
+import de.chris.game.main.Game;
+import de.chris.game.objects.Block;
+import de.chris.game.utils.GameObject;
+import de.chris.game.utils.ObjectId;
 
 public class Handler 
 {

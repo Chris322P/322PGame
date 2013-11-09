@@ -1,4 +1,4 @@
-package de.chris.adolf.utils;
+package de.chris.game.utils;
 
 public enum ObjectId 
 {

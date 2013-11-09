@@ -1,6 +1,6 @@
-package de.chris.adolf.libs;
+package de.chris.game.libs;
 
-import de.chris.adolf.main.Game;
+import de.chris.game.main.Game;
 
 public class Reference {
 	public static final int CENTER_X = Game.WIDTH / 2;

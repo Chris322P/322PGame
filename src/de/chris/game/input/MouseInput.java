@@ -1,12 +1,12 @@
-package de.chris.adolf.input;
+package de.chris.game.input;
 
 import java.awt.Rectangle;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-import de.chris.adolf.enums.GameState;
-import de.chris.adolf.main.Game;
-import de.chris.adolf.screens.Handler;
+import de.chris.game.enums.GameState;
+import de.chris.game.main.Game;
+import de.chris.game.screens.Handler;
 
 public class MouseInput extends MouseAdapter{
 	

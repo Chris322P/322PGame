@@ -1,4 +1,4 @@
-package de.chris.adolf.main;
+package de.chris.game.main;
 
 import java.awt.Canvas;
 import java.awt.Color;
@@ -10,18 +10,18 @@ import java.awt.image.BufferStrategy;
 
 import javax.swing.JFrame;
 
-import de.chris.adolf.enums.GameState;
-import de.chris.adolf.input.KeyInput;
-import de.chris.adolf.input.MouseInput;
-import de.chris.adolf.libs.Images;
-import de.chris.adolf.libs.Reference;
-import de.chris.adolf.objects.Player;
-import de.chris.adolf.screens.Handler;
-import de.chris.adolf.screens.Menu;
-import de.chris.adolf.screens.Renderer;
-import de.chris.adolf.utils.FileManager;
-import de.chris.adolf.utils.ObjectId;
-import de.chris.adolf.utils.ResourceLoader;
+import de.chris.game.enums.GameState;
+import de.chris.game.input.KeyInput;
+import de.chris.game.input.MouseInput;
+import de.chris.game.libs.Images;
+import de.chris.game.libs.Reference;
+import de.chris.game.objects.Player;
+import de.chris.game.screens.Handler;
+import de.chris.game.screens.Menu;
+import de.chris.game.screens.Renderer;
+import de.chris.game.utils.FileManager;
+import de.chris.game.utils.ObjectId;
+import de.chris.game.utils.ResourceLoader;
 
 
 public class Game extends Canvas implements Runnable {

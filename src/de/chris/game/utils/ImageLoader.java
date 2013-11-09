@@ -1,4 +1,4 @@
-package de.chris.adolf.utils;
+package de.chris.game.utils;
 
 import java.awt.geom.AffineTransform;
 import java.awt.image.AffineTransformOp;
@@ -8,7 +8,7 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
-import de.chris.adolf.libs.Reference;
+import de.chris.game.libs.Reference;
 
 public class ImageLoader {
 	public BufferedImage rotateImageVert(BufferedImage old)

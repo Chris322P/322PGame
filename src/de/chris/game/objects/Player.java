@@ -1,4 +1,4 @@
-package de.chris.adolf.objects;
+package de.chris.game.objects;
 
 import java.awt.Graphics;
 import java.awt.Rectangle;
@@ -6,10 +6,10 @@ import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-import de.chris.adolf.libs.Images;
-import de.chris.adolf.screens.Handler;
-import de.chris.adolf.utils.GameObject;
-import de.chris.adolf.utils.ObjectId;
+import de.chris.game.libs.Images;
+import de.chris.game.screens.Handler;
+import de.chris.game.utils.GameObject;
+import de.chris.game.utils.ObjectId;
 
 public class Player extends GameObject
 {

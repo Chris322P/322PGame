@@ -1,4 +1,4 @@
-package de.chris.adolf.enums;
+package de.chris.game.enums;
 
 public enum GameState {
 	MENU,

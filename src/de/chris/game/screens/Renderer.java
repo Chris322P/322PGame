@@ -1,10 +1,10 @@
-package de.chris.adolf.screens;
+package de.chris.game.screens;
 
 import java.awt.Color;
 import java.awt.Graphics;
 
-import de.chris.adolf.main.Game;
-import de.chris.adolf.objects.Animation;
+import de.chris.game.main.Game;
+import de.chris.game.objects.Animation;
 
 public class Renderer {
 	public void renderBackground(Graphics g){

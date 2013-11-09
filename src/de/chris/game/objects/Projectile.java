@@ -1,4 +1,4 @@
-package de.chris.adolf.objects;
+package de.chris.game.objects;
 
 import java.awt.Graphics;
 import java.awt.Rectangle;
@@ -10,10 +10,10 @@ import java.util.LinkedList;
 
 import javax.imageio.ImageIO;
 
-import de.chris.adolf.main.Game;
-import de.chris.adolf.screens.Handler;
-import de.chris.adolf.utils.GameObject;
-import de.chris.adolf.utils.ObjectId;
+import de.chris.game.main.Game;
+import de.chris.game.screens.Handler;
+import de.chris.game.utils.GameObject;
+import de.chris.game.utils.ObjectId;
 
 public class Projectile extends GameObject 
 {
